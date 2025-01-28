@@ -1,0 +1,3 @@
+[submodule "lib/dependency"]
+	path = lib/dependency
+	url = git@github.com:byjokese/submodule-depency.git
